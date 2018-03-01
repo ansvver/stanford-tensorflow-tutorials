@@ -1,0 +1,83 @@
+[I 11:44:24.248 NotebookApp] JupyterLab alpha preview extension loaded from /Users/ansvver/.pyenv/version/anaconda2/lib/python2.7/site-packages/jupyterlab
+JupyterLab v0.27.0
+Known labextensions:
+[I 11:44:24.253 NotebookApp] Running the core application with no additional extensions or settings
+[I 11:44:24.264 NotebookApp] Serving notebooks from local directory: /Users/ansvver/Workspace/git/stanford-tensorflow-tutorials/pratice
+[I 11:44:24.264 NotebookApp] 0 active kernels 
+[I 11:44:24.264 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=b8b3278135d2b6075b044f97dc3cbd9dc7ab780e98caf23b
+[I 11:44:24.265 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:44:24.265 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=b8b3278135d2b6075b044f97dc3cbd9dc7ab780e98caf23b
+[I 11:44:45.582 NotebookApp] 302 GET /?token=b8b3278135d2b6075b044f97dc3cbd9dc7ab780e98caf23b (::1) 0.75ms
+[I 11:44:50.495 NotebookApp] Creating new notebook in 
+[I 11:44:51.223 NotebookApp] Kernel started: 16e0dbe1-040c-4c3b-b5c3-e1c9194f0213
+[I 11:44:52.325 NotebookApp] Adapting to protocol v5.1 for kernel 16e0dbe1-040c-4c3b-b5c3-e1c9194f0213
+[I 11:46:51.177 NotebookApp] Saving file at /lecture3.ipynb
+[I 11:52:51.167 NotebookApp] Saving file at /lecture3.ipynb
+[I 20:11:18.894 NotebookApp] 302 GET /?token=851a08081ae2d5e9b4f5bf1a6c1dc4aaedf7e17bc1d4a782 (::1) 0.72ms
+[I 20:11:22.730 NotebookApp] Adapting to protocol v5.1 for kernel 16e0dbe1-040c-4c3b-b5c3-e1c9194f0213
+[I 20:13:22.728 NotebookApp] Saving file at /lecture3.ipynb
+[I 20:15:24.172 NotebookApp] Saving file at /lecture3.ipynb
+[I 20:26:09.906 NotebookApp] Kernel restarted: 16e0dbe1-040c-4c3b-b5c3-e1c9194f0213
+[I 20:26:11.768 NotebookApp] Adapting to protocol v5.1 for kernel 16e0dbe1-040c-4c3b-b5c3-e1c9194f0213
+[I 20:27:24.415 NotebookApp] Saving file at /lecture3.ipynb
+[I 20:29:22.718 NotebookApp] Saving file at /lecture3.ipynb
+[I 20:31:22.738 NotebookApp] Saving file at /lecture3.ipynb
+[I 20:33:22.734 NotebookApp] Saving file at /lecture3.ipynb
+[I 20:35:22.735 NotebookApp] Saving file at /lecture3.ipynb
+[I 20:41:22.741 NotebookApp] Saving file at /lecture3.ipynb
+[I 20:43:22.742 NotebookApp] Saving file at /lecture3.ipynb
+[I 20:59:22.743 NotebookApp] Saving file at /lecture3.ipynb
+[I 21:01:22.737 NotebookApp] Saving file at /lecture3.ipynb
+[I 21:03:22.740 NotebookApp] Saving file at /lecture3.ipynb
+[I 21:05:22.743 NotebookApp] Saving file at /lecture3.ipynb
+[I 21:07:23.087 NotebookApp] Saving file at /lecture3.ipynb
+[I 14:12:05.293 NotebookApp] Saving file at /lecture3.ipynb
+[I 14:14:07.175 NotebookApp] Saving file at /lecture3.ipynb
+[I 14:38:05.279 NotebookApp] Saving file at /lecture3.ipynb
+[I 14:40:05.267 NotebookApp] Saving file at /lecture3.ipynb
+[I 16:41:39.363 NotebookApp] Adapting to protocol v5.1 for kernel 16e0dbe1-040c-4c3b-b5c3-e1c9194f0213
+[I 16:53:39.297 NotebookApp] Saving file at /lecture3.ipynb
+[I 16:55:39.260 NotebookApp] Saving file at /lecture3.ipynb
+[I 16:57:39.271 NotebookApp] Saving file at /lecture3.ipynb
+[I 17:05:39.279 NotebookApp] Saving file at /lecture3.ipynb
+[I 17:07:39.272 NotebookApp] Saving file at /lecture3.ipynb
+[I 17:09:39.274 NotebookApp] Saving file at /lecture3.ipynb
+[I 17:11:39.670 NotebookApp] Saving file at /lecture3.ipynb
+[I 17:15:39.265 NotebookApp] Saving file at /lecture3.ipynb
+[I 17:17:42.372 NotebookApp] Saving file at /lecture3.ipynb
+[I 17:19:39.280 NotebookApp] Saving file at /lecture3.ipynb
+[I 17:49:39.856 NotebookApp] Saving file at /lecture3.ipynb
+[I 17:51:39.296 NotebookApp] Saving file at /lecture3.ipynb
+[I 17:53:39.305 NotebookApp] Saving file at /lecture3.ipynb
+[I 17:55:39.299 NotebookApp] Saving file at /lecture3.ipynb
+[I 09:44:12.283 NotebookApp] Adapting to protocol v5.1 for kernel 16e0dbe1-040c-4c3b-b5c3-e1c9194f0213
+[I 09:44:23.068 NotebookApp] Adapting to protocol v5.1 for kernel 16e0dbe1-040c-4c3b-b5c3-e1c9194f0213
+[I 14:18:24.063 NotebookApp] Saving file at /lecture3.ipynb
+[I 14:20:24.046 NotebookApp] Saving file at /lecture3.ipynb
+[I 14:22:24.052 NotebookApp] Saving file at /lecture3.ipynb
+[I 14:24:24.053 NotebookApp] Saving file at /lecture3.ipynb
+[I 14:26:24.053 NotebookApp] Saving file at /lecture3.ipynb
+[I 14:28:24.053 NotebookApp] Saving file at /lecture3.ipynb
+[I 14:30:24.047 NotebookApp] Saving file at /lecture3.ipynb
+[I 14:40:29.692 NotebookApp] Kernel started: c39e35af-1733-4907-be7e-90a57b26b8be
+[I 14:40:31.738 NotebookApp] Kernel started: ff296aa5-ad38-4cc8-927b-117f992acefb
+[I 14:40:31.990 NotebookApp] Adapting to protocol v5.1 for kernel c39e35af-1733-4907-be7e-90a57b26b8be
+[I 14:40:33.036 NotebookApp] Adapting to protocol v5.1 for kernel ff296aa5-ad38-4cc8-927b-117f992acefb
+[I 14:48:24.322 NotebookApp] Saving file at /lecture3.ipynb
+[I 16:37:31.987 NotebookApp] Adapting to protocol v5.1 for kernel 16e0dbe1-040c-4c3b-b5c3-e1c9194f0213
+[I 16:39:23.488 NotebookApp] Creating new notebook in 
+[I 16:39:24.157 NotebookApp] Kernel started: 28684763-293b-4301-a188-a22737ccce43
+[I 16:39:26.142 NotebookApp] Adapting to protocol v5.1 for kernel 28684763-293b-4301-a188-a22737ccce43
+[I 16:41:24.149 NotebookApp] Saving file at /lecture3_MNIST.ipynb
+[I 16:43:24.144 NotebookApp] Saving file at /lecture3_MNIST.ipynb
+[I 16:43:56.435 NotebookApp] Adapting to protocol v5.1 for kernel 16e0dbe1-040c-4c3b-b5c3-e1c9194f0213
+[I 16:45:24.680 NotebookApp] Saving file at /lecture3_MNIST.ipynb
+[I 16:47:24.144 NotebookApp] Saving file at /lecture3_MNIST.ipynb
+[I 16:49:24.140 NotebookApp] Saving file at /lecture3_MNIST.ipynb
+[I 16:51:24.682 NotebookApp] Saving file at /lecture3_MNIST.ipynb
+[I 17:01:24.142 NotebookApp] Saving file at /lecture3_MNIST.ipynb
+[I 17:03:24.672 NotebookApp] Saving file at /lecture3_MNIST.ipynb
