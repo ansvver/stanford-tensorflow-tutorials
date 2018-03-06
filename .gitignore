@@ -12,3 +12,7 @@ examples/chatbot/checkpoints/*
 examples/chatbot/data_analysis.py
 
 assignments/chatbot/processed/*
+.DS_Store
+.python-version
+venv/
+pratice/jnotebook2.log
